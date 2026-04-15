@@ -1,5 +1,5 @@
 # Credit Risk Scorecard
-> A Google Apps Script Web Application · Airwallex Interview Project
+> A Google Apps Script Web Application · Project
 
 ---
 
