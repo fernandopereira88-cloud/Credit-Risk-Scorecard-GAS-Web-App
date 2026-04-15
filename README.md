@@ -168,4 +168,4 @@ When deployed with *"Execute as: Me"* and *"Who has access: Anyone"*, the web ap
 ---
 
 *Vibe Coded by **Fernando Pereira** using Claude Chat*  
-*Airwallex Risk Operations Interview Project · Google Apps Script + Sheets AI()*
+* Project · Google Apps Script + Sheets AI()*
